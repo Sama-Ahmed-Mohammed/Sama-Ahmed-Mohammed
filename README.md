@@ -1,9 +1,12 @@
 Computer Engineering student at Ain Shams University, with strong focus on AI applications and digital design & verification.
 
 🔧 Technical Skills:
+
 AI & Automation: Python, Machine Learning, Data Processing, Computer vision, deep learning.
-Digital design: Verilog, RTL Design, FSMs, Computer Architecture
-Digital verification: SystemVerilog, UVM, Testbench Design
+
+Digital design: Verilog, RTL Design, FSMs, Computer Architecture.
+
+Digital verification: SystemVerilog, UVM, Testbench Design.
 
 
 
